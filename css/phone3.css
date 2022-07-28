@@ -1,0 +1,87 @@
+/* UTILITY CLASSES */
+
+.btn{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+/* NAVBAR SECTION */
+
+#navbar::before{
+    height: 70px;
+}
+
+#logo{
+    margin: 5px 0px ;
+    padding: 0px;
+}
+
+#navbar ul .item a{
+    font-size: 0.8rem;
+    padding: 0px;
+    margin: 0px 5px;
+}
+
+/* SERVICES SECTION */
+
+#services::before {
+    height: 420px;
+}
+
+
+/* CLIENT SECTION  */
+
+.clients-container img{
+    height: 30px;
+    width: 30px;
+}
+
+#clients::before {
+    height: 100px;
+}
+
+#clients {
+    height: 120px;
+}
+
+/* CONTACT US  */
+
+#contact-us{
+    height: 250px;
+}
+#contact-us::before{
+    height: 220px;
+}
+
+
+/* LOGIN/SIGNUP SECTION */
+
+#login-section{
+    height: 335px;
+}
+
+#login-section::before{
+    height: 315px;
+}
+
+
+
+
+
+/* ORDER NOW MENU CSS */
+
+
+.item-ordernow{
+    height: 450px;
+}
+
+.item-ordernow img{
+    width: 200px;
+    height: 200px;
+}
+
+
+.item-ordernow h1{
+    font-size: 1.5rem;
+}

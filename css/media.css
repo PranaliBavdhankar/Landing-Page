@@ -1,0 +1,12 @@
+@media only screen and (min-width:250px) and (max-width:438px) {
+    
+    #navbar::before{
+        height:150px ;
+    }
+}
+@media only screen and (min-width:510px) and (max-width:610px) {
+    
+   #login{
+        margin-left: 70px;
+    }
+}

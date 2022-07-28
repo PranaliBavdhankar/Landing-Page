@@ -1,0 +1,47 @@
+/* SERVICES SECTION */
+
+#services::before{
+    height: 580px;
+}
+
+/* NAVBAR SECTION */
+
+#navbar::before{
+    height: 100px;
+}
+
+/* MOBILE NAVBAR SECTION */
+
+#mobilenav #logo img{
+    width: 100px;
+}
+
+
+
+/* ORDER NOW MENU CSS */
+
+
+.item-ordernow img{
+    width: 100px;
+    height: 100px;
+}
+
+.item-ordernow{
+    height: 400px;
+}
+
+
+/* OUR COMMUNITY */
+
+.communitybtnmobile img{
+    width: 30px;
+}
+
+
+/* CHAT SECTION */
+
+.chat h3 a {
+    font-size: 1rem;
+    right: 0px;
+
+}
